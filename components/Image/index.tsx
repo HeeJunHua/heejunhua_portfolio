@@ -13,7 +13,7 @@ interface IImage {
 
 /* --------------------------- Image defaultProps --------------------------- */
 const defaultProps = {
-  alt: 'codewonders',
+  alt: 'Hee Portfolio',
   className: '',
 };
 
