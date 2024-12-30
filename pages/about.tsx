@@ -43,15 +43,18 @@ const About = () => {
                 </p>
               </li>
               <li>
-                <Link href="/projects" aria-label="Open Projects Page">
-                  Projects
-                </Link>
+                <h4>Final Year Projects</h4>
                 <p>
-                  My experience includes building high-performance web applications with a focus on API integration, responsive UI,
-                  and efficient backend architectures. During my internships, I honed skills in RESTful API integration, MVC-based web
-                  development, and dynamic application design, improving user engagement and system performance.
+                  For my final year project, I developed a <b>Fundraising & Food Waste Reduction System</b> in collaboration with my partner. 
+                  This system addresses critical societal challenges: fundraising for charitable causes and reducing food waste. 
+                  My focus was on building the <b>food waste reduction</b> component, while my partner specialized in the <b>fundraising</b> module.
+                  Together, we utilized Laravel to create an integrated platform with features like user authentication, fundraising project tracking, 
+                  and food donation management. The system also incorporates geocoding APIs for efficient location-based functionalities 
+                  and employs a responsive interface built with Bootstrap to ensure usability across devices. This project showcases our ability 
+                  to tackle complex problems, combining technical expertise with social responsibility.
                 </p>
               </li>
+
             </ul>
           </article>
         </PageWrapper>
@@ -134,20 +137,20 @@ const About = () => {
               <li>
                 <ul>
                   <li>
-                    <b>Chinese:</b> Native proficiency
+                    <b>Chinese (Native proficiency)</b>
                     <p>Used in daily communication and professional settings, including speaking and understanding conversations.</p>
                   </li>
                   <li>
-                    <b>English:</b> Professional working proficiency
+                    <b>Cantonese (Conversational)</b>
+                    <p>Able to participate in basic conversations, understand cultural nuances, and engage in family-oriented discussions.</p>
+                  </li>
+                  <li>
+                    <b>English (Professional working proficiency)</b>
                     <p>Experienced in using English for technical writing, communication with international teams, and conducting presentations.</p>
                   </li>
                   <li>
-                    <b>Malay:</b> Fluent
+                    <b>Malay (Fluent)</b> 
                     <p>Able to engage in both formal and informal settings, often used for communication within the local community and in business contexts.</p>
-                  </li>
-                  <li>
-                    <b>Cantonese:</b> Conversational
-                    <p>Able to participate in basic conversations, understand cultural nuances, and engage in family-oriented discussions.</p>
                   </li>
                 </ul>
               </li>
