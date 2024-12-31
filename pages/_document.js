@@ -56,7 +56,10 @@ export default class MyDocument extends Document {
             content="/icons/browserconfig.xml"
           />
           <meta name="twitter:site" content="@code_wonders" />
-          <meta name="twitter:image" content="https://ibb.co/Jn2qGck" />
+          <meta
+            name="twitter:image"
+            content="https://i.ibb.co/XXpDKWJ/Full-Profile-Picture.jpg"
+          />
           <link
             rel="preload"
             as="style"
@@ -147,7 +150,10 @@ export default class MyDocument extends Document {
             property="og:url"
             content="https://heejunhua-portfolio.vercel.app/"
           />
-          <meta property="og:image" content="https://ibb.co/Jn2qGck" />
+          <meta
+            property="og:image"
+            content="https://i.ibb.co/XXpDKWJ/Full-Profile-Picture.jpg"
+          />
           <meta name="apple-mobile-web-app-title" content="Hee Jun Hua" />
           <meta name="next-head-count" content="21" />
           <style
