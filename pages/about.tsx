@@ -20,7 +20,7 @@ const About = () => {
                   aria-label="Open GitHub Link"
                   href="https://github.com/HeeJunHua"
                 >
-                  Entry-Level IT Professional{' '}
+                  My Github Projects{' '}
                   <small>
                     <Github />
                   </small>
@@ -167,6 +167,20 @@ const About = () => {
             <ul className="timeline">
               <li>
                 <a
+                  href="https://drive.google.com/file/d/19DKoiCE97GdjdbvLUlV4RueKeaL-GKQw/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="View Bachelor Certificate (Temp)"
+                >
+                  Bachelor Certificate
+                </a>
+                <p>
+                  Specialized in software systems development with a focus on full-stack web applications, cloud computing, and 
+                  advanced problem-solving techniques. Demonstrated expertise through academic projects and successful internships.
+                </p>
+              </li>
+              <li>
+                <a
                   href="https://drive.google.com/file/d/1-bsr3jDHYHy_3zYn11CFIN6dDgIFCBH7/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -177,20 +191,6 @@ const About = () => {
                 <p>
                   Achieved foundational knowledge in programming, database systems, and networking through hands-on coursework and 
                   projects. This certificate represents comprehensive training in IT fundamentals and problem-solving skills.
-                </p>
-              </li>
-              <li>
-                <a
-                  href="https://drive.google.com/file/d/1ySaAy5Mszdyij1qYge4m08K3NpmgTid1/view?usp=sharing"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="View Bachelor Certificate (Temp)"
-                >
-                  Bachelor Certificate (Temp)
-                </a>
-                <p>
-                  Specialized in software systems development with a focus on full-stack web applications, cloud computing, and 
-                  advanced problem-solving techniques. Demonstrated expertise through academic projects and successful internships.
                 </p>
               </li>
               <li>
